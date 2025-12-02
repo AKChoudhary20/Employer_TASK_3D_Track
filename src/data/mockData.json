@@ -1,0 +1,130 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Frontend Developer",
+      "avatar": "👩‍💻",
+      "email": "alice@company.com",
+      "tasks": [
+        {
+          "id": 101,
+          "title": "Build login page",
+          "description": "Create responsive login form with validation",
+          "status": "Completed",
+          "priority": "High",
+          "dueDate": "2024-01-15",
+          "employeeId": 1
+        },
+        {
+          "id": 102,
+          "title": "Implement dashboard",
+          "description": "Design and develop main dashboard interface",
+          "status": "In Progress",
+          "priority": "Medium",
+          "dueDate": "2024-01-20",
+          "employeeId": 1
+        },
+        {
+          "id": 103,
+          "title": "Mobile responsive design",
+          "description": "Ensure all components work on mobile devices",
+          "status": "Pending",
+          "priority": "Medium",
+          "dueDate": "2024-01-25",
+          "employeeId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "Backend Developer",
+      "avatar": "👨‍💼",
+      "email": "bob@company.com",
+      "tasks": [
+        {
+          "id": 201,
+          "title": "API integration",
+          "description": "Connect frontend with backend APIs",
+          "status": "Pending",
+          "priority": "High",
+          "dueDate": "2024-01-18",
+          "employeeId": 2
+        },
+        {
+          "id": 202,
+          "title": "Database optimization",
+          "description": "Optimize database queries for better performance",
+          "status": "In Progress",
+          "priority": "Medium",
+          "dueDate": "2024-01-22",
+          "employeeId": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carol Wilson",
+      "role": "UX Designer",
+      "avatar": "🎨",
+      "email": "carol@company.com",
+      "tasks": [
+        {
+          "id": 301,
+          "title": "User research",
+          "description": "Conduct user interviews and surveys",
+          "status": "Completed",
+          "priority": "High",
+          "dueDate": "2024-01-10",
+          "employeeId": 3
+        },
+        {
+          "id": 302,
+          "title": "Wireframe design",
+          "description": "Create wireframes for new features",
+          "status": "In Progress",
+          "priority": "Medium",
+          "dueDate": "2024-01-20",
+          "employeeId": 3
+        },
+        {
+          "id": 303,
+          "title": "Prototype testing",
+          "description": "Test prototypes with users",
+          "status": "Pending",
+          "priority": "Low",
+          "dueDate": "2024-01-28",
+          "employeeId": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "David Chen",
+      "role": "DevOps Engineer",
+      "avatar": "⚙️",
+      "email": "david@company.com",
+      "tasks": [
+        {
+          "id": 401,
+          "title": "CI/CD pipeline",
+          "description": "Set up automated deployment pipeline",
+          "status": "Completed",
+          "priority": "High",
+          "dueDate": "2024-01-12",
+          "employeeId": 4
+        },
+        {
+          "id": 402,
+          "title": "Server monitoring",
+          "description": "Implement comprehensive server monitoring",
+          "status": "In Progress",
+          "priority": "High",
+          "dueDate": "2024-01-25",
+          "employeeId": 4
+        }
+      ]
+    }
+  ]
+}
