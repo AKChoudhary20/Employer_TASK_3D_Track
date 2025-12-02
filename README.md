@@ -1,5 +1,6 @@
 # 3D Employee Task Tracker
-https://github.com/user-attachments/assets/e9607056-714c-4ea2-9d98-308d9a9b2e86
+https://github.com/user-attachments/assets/a9f59d39-53a7-4ab0-a2d1-a1e23af3edbe
+
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/23d7e298-eb68-49e1-bc9b-8d285333257e" />
 
 A modern, interactive 3D web application for tracking employee tasks using React, Three.js, and React Three Fiber. This project demonstrates advanced 3D web development techniques with a practical business application.
